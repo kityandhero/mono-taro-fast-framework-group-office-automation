@@ -11,7 +11,7 @@ export const config = {
   // showRequestInfo: checkWhetherDevelopmentEnvironment(),
   // showUseVirtualRequestMessage: true,
   apiPrefix: {
-    corsTargetDomain: 'https://zwfbapi.1010101.cc',
+    corsTargetDomain: 'https://interact.oa.32306.net',
   },
   apiSuccessCode: 200,
   authenticationFailCode: 2001,

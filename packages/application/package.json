@@ -1,8 +1,8 @@
 {
-  "name": "taro-fast-application",
+  "name": "taro-fast-application-oa",
   "version": "1.0.0",
   "private": true,
-  "description": "taro-fast-application",
+  "description": "taro-fast-application-oa",
   "author": "",
   "scripts": {
     "core:build:alipay": "npx @tarojs/cli build --type alipay",
